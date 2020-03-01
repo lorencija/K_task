@@ -1,0 +1,17 @@
+{
+    "name": "laura/nfq",
+    "description": "task",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LauraJanuskeviciene",
+            "email": "laura.januske@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "NFQ\\": "src/"  }
+    },
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
